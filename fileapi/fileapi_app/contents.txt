@@ -1,0 +1,789 @@
+Hexagonal Boron Nitride The Thinnest
+Insulating Barrier to Microbial Corrosion
+Govinda ChilkoorSushma Priyanka KaranamShane StarNamita ShresthaRajesh K Sani
+Venkata KK UpadhyayulaDebjit GhoshalNikhil A KoratkarM Meyyappan
+and Venkataramana Gadhamshetty 
+Civil and Environmental EngineeringMaterials and Metallurgical EngineeringChemical and Biological Engineering and
+Surface Engineering Research Center South Dakota School of Mines and Technology 501 E Saint Joseph Boulevard Rapid City
+South Dakota 57701 United States
+Green Technologies and Environmental Economics Platform Chemistry Department Umea University Umea Sweden 90187
+Department of Chemical and Biological EngineeringDepartment of Mechanical Aerospace and Nuclear Engineering and
+Department of Materials Science and Engineering Rensselaer Polytechnic Institute 110 Eighth Street Troy New York 121803590
+United States
+Center for Nanotechnology NASA Ames Research Center Mo ett Field Mountain View California 94035 United States
+SSupporting Information
+ABSTRACT We report the use of a single layer of two
+dimensional hexagonal boron nitride SLhBN as thethinnest insulating barrier to microbial corrosion inducedby the sulfatereducing bacteria Desulfovibrio alaskensis G20
+We used electrochemical methods to assess the corrosionresistance of SLhBN on copper against the e ects of both
+the planktonic and sessile forms of the sulfatereducingbacteria Cyclic voltammetry results show that SLhBNCuis eective in suppressing corrosion e ects of the
+planktonic cells at potentials as high as 02 V  vsAg
+AgCl The peak anodic current for the SLhBN coatings is36 times lower than that of bare Cu Linear polarization
+resistance tests con rm that the SLhBN coatings serve as a barrier against corrosive e ects of the G20 bio lm when
+compared to bare Cu The SLhBN serves as an impermeable barrier to aggressive metabolites and o ers91 corrosion
+inhibition e ciency which is comparable to much thicker commercial coatings such as polyaniline In addition to
+impermeability the insulating nature of SLhBN suppresses galvanic e ects and improves its ability to combat microbial
+corrosion
+KEYWORDS 2D coatings hexagonal boron nitride microbial corrosion sulfatereducing bacteria
+Microbially induced corrosion MIC results in an
+unanticipated attack on metals in seemingly benignenvironments and threatens a range of multibillion
+dollar industries including aviation surface transportation and
+water infrastructure1MIC accounts for 20 40 of the annual
+corrosion costs including direct and indirect impacts whichhave been estimated to reach as high as 1 trillion2MIC poses
+a signi cantnancial burden in the US alone in the form of
+total direct costs 30 50 billionyear3biocide require
+ments 12 billionyear4and direct costs in oil and gas
+industries 2 billionyear5The US annually spends nearly
+6 billion to combat MIC e ects of sulfatereducing bacteria
+SRB alone6The SRBs secrete exopolymers on metal surfaces
+and form a bio lm to induce uniform corrosion or localized
+pitting attack using one or more of the following mechanisms7
+i disruption of passivating metaloxide lms ii alteringredox conditions at the metal solution interface iii
+regeneration of the electron acceptors iv production of
+aggressive metabolites  eg suldes and v depolarizing the
+cathodic reactions
+Major corrosion mitigation practices including protective
+coatings and impressed current cathodic protection tend to fail
+under MIC conditions For example commercially availablepolymer coatings  eg epoxy liners are prone to biodegrada
+tion and they exhibit poor adhesion toward metals underaqueous conditions
+811The thickness of commercial coatings
+501000 m can also disrupt the functionality  eg
+Received August 31 2017
+Accepted February 12 2018
+Published February 12 2018Article
+wwwacsnanoorg Cite This ACS Nano 2018 12 2242 2252
+ 2018 American Chemical Society 2242 DOI 101021acsnano7b06211
+ACS Nano 2018 12 2242 2252
+Downloaded via BINGHAMTON UNIV STATE UNIV NEW YORK on April 20 2023 at 175956 UTC
+See httpspubsacsorgsharingguidelines for options on how to legitimately share published articles
+electrical conductivity porosity dimensional tolerances of the
+underlying metals Furthermore SRB can accelerate the
+corrosion cells present under cathodic protection systems
+through cathodic depolarization by consuming hydrogen
+Recent studies have demonstrated the corrosion resistance of
+graphenebased materials11215under both abiotic and MIC
+conditions The graphene coatings exhibit excellent chemical
+inertness ductility hydrophobicity impermeability andstrength Screeninglevel life cycle analysis has demonstrated
+environmental bene ts of graphene coatings compared to zinc
+coatings under both aggressive atmospheric corrosion15and
+MIC conditions1617However the nanoscale defects in
+graphene coatings serve as cathodic sites for capturing and
+reducing terminal electron acceptors and simultaneously
+aggravating galvanic corrosion of the underlying metals18
+Unlike graphene the 2D hexagonal boron nitrided hBN canbe obtained as an insulating coating to suppress the galvanic
+eects The 2D hBN materials have been reported to yield
+highperformance coatings endowed with exceptional properties related to adhesion barrier impermeability and
+stability
+1821The hBNcoated metals  eg Cu and steel
+show oxidation resistance against corrosive e ects of high
+temperatures 1100 C22and harsh chemicals1823242D hBN
+coated Cu has been shown to be an excellent barrier against
+Gramnegative Escherichia coli 19In this paper we explore the use of a singlelayered hBN
+coating as a thinnest insulating barrier to protect metals againstMIC e ects of aggressive sulfatereducing conditions We use
+Desulfovibrio alaskensis G20 as the model for the SRB and Cu as
+a technologically relevant metal This study provides insightinto the performance of 2D hBN coating against the MICeects of the G20 strain in the planktonic and sessile forms
+Here we assess and quantify the longterm performance of 2DhBN coating on a temporal scale that re ects Cubio lm
+dynamics in corrosion cells that are continuously operatedunder a fedbatch mode A series of alternate current ACelectrochemical impedance spectroscopy EIS tests directcurrent DC electrochemical methods such as potentiodynamic polarization cyclic voltammetry CV and linearpolarization resistance and imaging techniques have beenused to investigate the underlying mechanisms that enable the2D hBN coatings to protect metals against harsh MICconditions Finally we demonstrate that the singlelayeredhBN coatings suppress galvanic corrosion e ects that are
+typically encouraged by singlelayered graphene SLG coatings
+RESULTS AND DISCUSSION
+Characterization of Atomic Layers of Hexagonal
+Boron Nitride The lowmagni cation image in Figure 1 a
+Figure 1 SEM optical image TEM and Raman characterization of as grown single layer hBN SLhBN a The line in lower magni cation
+SEM image indicated with yellow arrow represent a Cu grain boundary and the dark patches are the Cu domains Scale bar 100 m b
+The smaller scale faint grey zones indicated in red arrow in higher magni cation SEM image represent few layered hBN lms Scale bar 2
+m c Optical image of SLhBN light indigo transferred onto a SiO2Si substrate background color Scale bar 50 m d TEM image
+showing sheets of SLhBN Scale bar 50 nm e TEM image of folded edge showing a single parallel line con rming the presence of SLhBN
+Scale bar 2 nm f Selected area electron di raction pattern shows the crystalline and hexagonal nature of SLhBN g Typical Raman
+spectra for SLhBNACS Nano Article
+DOI 101021acsnano7b06211
+ACS Nano 2018 12 2242 22522243
+show a monolayer of conformal hBN coatings deposited over
+Cu foils by chemical vapor deposition CVD The Cu grainboundaries are indicated with yellow arrows and the copperdomains as dark patches  Figure 1 ab The highermagni ca
+tion image in Figure 1 b shows a monolayer of SLhBN with
+large area on the Cu foil The occasional faint gray zones
+suggest the presence of bilayers in certain regions To further
+conrm the presence of the SLhBN lm on Cu foil the sample
+was transferred onto the SiO
+2Si substrate using a polymethyl
+methacrylatebased transfer method The light indigo shade inFigure 1 c indicates a monolayer of hBN whereas the brown
+patch indicates the underlying SiO
+2Si substrate through atopographical defect induced during the transfer The trans
+mission electron microscopy TEM analysis reveals thetransparent aggregated crystalline structure for the hBNcoating  Figure 1 d Furthermore the TEM image shows a
+folded edge with one line indicating the presence of a layer ofhBN  Figure 1 e on the copper foil with a corresponding
+interlayer spacing of 33  These values match the theoretical
+estimates for distances between lattice planes for bulk hBN
+25
+The selected area di raction measurement shown in the TEM
+image con rm an atomicscale chicken wire hexagonal
+pattern of hBN on the SLhBNCu  Figure 1 f Finally the
+Raman data for the SiSiO 2transferred hBN lm analyzed with
+Figure 2 SEM images after air annealing 200 C 8 h for a Bare Cu showing 70 of oxidized surface b SLhBNCu showing 30 of
+oxidized surface Note White area indicates oxidized copper and red area indicates protected copper SEM images after 30 H 2O2exposure
+2 h for c Bare Cu showing 71 of oxidized surface d SLhBNCu showing 45 of oxidized surface Note Green area indicates oxidizedcopper and gray area indicates protected copper e Raman spectra of a transferred CVD hBN lm on SiO
+2Si showing surface coverage of
+1488 m2for hBN equivalent to 88 surface coverage WITEC 300R Confocal Raman Imaging was used with a laser wavelength of 532
+nm and 100 objective lensACS Nano Article
+DOI 101021acsnano7b06211
+ACS Nano 2018 12 2242 22522244
+the Lorentzian peak tting method18conrm the Raman peak
+at 1370 cm1Figure 1 g that matches a single layer of hBN
+lm26
+Identifying Inherent Defects in SLhBN We carried out
+detailed oxidation experiments to identify the defect density of
+SLhBN coatings The results from the oxidation experimentsare summarized here with further details below 1 SLhBN
+coatings were able to protect the underlying copper substrates
+in oxidizing environments 2 SLhBN coatings are characterized by inherent defects 3 Raman mapping tests
+corroborate the speci c degree of surface coverage o ered by
+the single layer of hBN coating The oxidation experimentswere carried out by exposing the SLhBNCu and bare Cu to
+oxidizing environments induced by air annealing  200C8
+h Another set of oxidation experiments was carried out bytreating the samples with 30 H
+2O2for2 h The exposure
+time determined from preliminary trials ensured aggressive
+oxidizing environments without destroying the samples Figure
+2ab presents the scanning electron microscopy SEM images
+for the oxidized samples at the end of the air annealing
+experiments  200C8 h The oxidized surface is shown as
+the white layer on the copper substrate red background A
+quantitative analysis using ImageJ software revealed that the
+percentage of oxidized area for SLhBNCu and bare Cu was30 and 70 respectively Exposure to H
+2O2revealed that
+SLhBNCu is susceptible to oxidation under aqueous
+conditions oxidized surface in green color and una ected
+copper in gray color  Figure 2 d The H2O2experiments
+revealed that the SLhBNCu and bare Cu were oxidized by45 and 71 respectively  Figure 2 cd These results
+indicate that defects due to grain boundaries and uncoalesced
+grains measured in terms of the  copper oxidation a ect the
+surface coverage o ered by the SLhBN coatings
+We carried out additional Raman mapping tests after
+transferring the lms of SLhBNCu on SiO 2Si specimens
+exposed area 1431 m2Figure 2 e The Raman mapping
+results indicate that hBN coatings were characterized with a
+coverage area of 88 Considering this situation the
+enhanced performance of the hBN coatings  iel o w e r
+corrosion rates is attributable to its insulating nature and its
+resultant ability to repress galvanic e ects as discussed later
+Improving surface coverage is expected to further enhance the
+ability of hBN coatings to combat MIC
+Crystallographic Orientation of Cu and the E ect on
+Defects in SLhBN The hBN lms grown using the CVD
+process are prone to intercalation of corrosion molecules due to
+the following two factors i defects that develop due todiscontinuous formation of layers in the form of isolated islands
+or domains and ii mismatch of copper and hBN orientation
+due to polycrystalline copper which introduces di erent
+interfaces with hBN allowing ions to intercalate between the
+hBNlm and copper substrate2729Based on previous studies
+the lowest defect density for hBN growth on copper requiresthe Cu surface to have a 111 direction3031The singlecrystal
+orientation of Cu helps to match the hexagonal lattice of hBN
+to produce highquality and largescale conformal coating Iteliminates the presence of numerous smallsized grains and
+grain boundaries which are sources of coating degradation and
+Figure 3 Electrochemical data within 24 h of exposure to sessile SRBG20 medium a Potentiodynamic polarization and b cyclic
+voltammetry curves for bare Cu and SLhBNCu c Optical images of Bare Cu and SLhBNCu after destructive test Scale 20 m
+Potentiodynamic polarization measurements in a potential range of 300 to 1000 mV from opencircuit voltage Cyclic voltammetry
+measurements in the potential window of 700 to 200 mV  vsAgAgCl for bare Cu for SLhBN positive potential was extended up to
+500 mV d Nyquist plot of BareCu and SLhBNCuACS Nano Article
+DOI 101021acsnano7b06211
+ACS Nano 2018 12 2242 22522245
+increased defect density The copper foils used for growing
+hBN have unfavorable crystallographic orientation  Figure
+S1ab  which indicates that the asgrown hBN lms are also
+expected to be characterized by defects To further understandthe Cu grain orientations in SLhBNCu we carried outelectron backscattering di raction mapping  Figure S1b  The
+mapping for SLhBN  Figure S1b  was monocrystalline
+Cu100 Future work should involve utilizing CVD substrateswith favorable crystallographic orientation in an e ort to reduce
+defects and improve the surface coverage of hBN coatings
+HighPerformance Nanoscale hBN Coatings for
+Microbially Induced Corrosion Resistance Sulfatereduc
+ing bacteria represent a diverse group of prokaryotes that are
+known to accelerate corrosion of technologically relevantmetals We used D vibrio G20 as the model for Gramnegative
+mesophilic SRB to evaluate the MIC resistance of SLhBNcoated Cu using the following three experiments i abioticcontrol ii planktonic cell test G20 cells in suspension andiii bio lm test G20 cells encapsulated in a biological lm
+Biotic vs Abiotic Corrosion under Neutral Conditions As
+discussed in the Supporting Information Figures S2 and S3
+the lactate C media did not exert any corrosive e ects on Cu in
+the absence of the G20 strain  ie abiotic conditions For
+example the opencircuit potential OCP for the biotic testsshifted to negative values  750 mV vsAgAgCl when
+compared to that with abiotic tests 0 mV vsAgAgCl  Figure
+S2a The DC tests show that the polarization resistance  R
+p
+for biotic tests was 67 times lower compared to its abiotic
+counterpart  Figure S2b  and corrosion rates  Figure S2c 
+were4 times higher The EIS analysis also suggests that the
+charge transfer resistance for biotic tests was 6 times lower
+when compared to that of the abiotic tests see Bode plots inFigure S3ab  The EIS analysis for the abiotic and biotic tests
+indicates di erent sequences of corrosion mechanisms and
+dierent electrical equivalent circuit EEC for each case
+Figure S3cd 
+Planktonic Tests Passivation E ects of SLhBN Coatings
+We con rmed the passive nature of SLhBN coating against the
+MIC e ects of the planktonic cells in ve dierent ways as
+discussed below First we used potentiodynamic polarizationtests to observe the current response of the working electrodeafter sweeping its applied potential away from the OCPconditions The nobler OCP value for the SLhBNCu cell670 mV vsAgAgCl when compared to that of bare copper
+735 mV vsAgAgCl supports the passivation property of
+the SLhBN coating  Figure 3 a Lower current density in the
+anodic branch indicates its higher corrosion resistance  Figure
+3a The singlelayered hBN coating limits the corrosion
+current to 6 mAcm
+2 which is 4fold lower compared to
+that of bare Cu  27 mAcm2Figure 3 a The anodic
+polarization curve for the bare Cu is dominant at higher appliedpotentials starting from 0 V vsAgAgCl Moreover the
+anodic branch for the bare Cu test registers a sharp increase incurrent density at 0 V vsAgAgCl indicating the breakdown
+of the passivation lm on the Cu surface and subsequent
+copper dissolution In contrast the current density values for
+the SLhBNCu remain constant during the entire potential
+range con rming its ability to minimize copper dissolution
+even at higher potential scans
+Second we ran CV tests for the bare Cu and SLhBNCu
+cells for four consecutive cycles to investigate the underlyingmechanisms for the Cu corrosion The CV results con rm that
+the anodic current observed during the potential polarizationtests is due to Cu oxidation Cu Cu
+22e For example
+the CV test for the bare Cu cell yielded a sharp increase in the
+current density when the potential approached 30 mV with an
+oxidation peak at 144 mV vsAgAgCl  Figure 3 b This
+oxidation peak can be attributed to Cu dissolution The
+reduction peak  40 mV vsAgAgCl during the negative scan
+corresponds to the reduction of Cu2ions Figure 3 b provides
+the evidence for the ability of the SLhBN coating to suppress
+the Cu dissolution The peak anodic current  ipa for the SL
+hBN coating  25Acm2i s36 times lower compared to
+that of bare Cu  915Acm2 This anodic peak is absent for
+the SLhBNCu cell at positive potentials 0 500 mV vsAg
+AgCl
+Third we used optical imaging to assess the degree of
+corrosion attack on the underlying Cu surfaces after four cyclesof the CV runs The CV test represents a destructive
+electrochemical test As shown in Figure 3 c the bare Cu
+suered a higher degree of debilitation whereas the SLhBN
+coated Cu stayed intact even after the four CV runs
+Fourth the postmortem analysis revealed that the hBN
+coatings minimized the degree of pitting attack on theunderlying Cu surface We cleaned the surfaces of the corroded
+specimens  ie after the CV runs with 10 sulfuric acid to
+remove remnants of the bio lm and corrosion products The
+bare Cu sample was characterized by an extremely rough
+surface with an abundant number of micropits throughout the
+sample area whereas the surface of the SLhBN sample
+remained intact exhibiting only minor surface roughness and
+isolated pits  Figure 3 c
+Finally EIS analysis was used to discern the protection
+mechanism o ered by SLhBN coatings against the planktonic
+cells As shown in Figure 3 d the magnitude of the Nyquist arc
+ie polarization resistance  R
+p in the SLhBNCu cell is 3
+fold higher than that of the bare Cu cell The EEC tting
+analysis con rms that the overall corrosion resistance in the SL
+hBNCu cell  Rcorr charge transfer resistance  Rct  pore
+resistance  Rpo  5278 k cm2i s49 higher than that of
+the bare Cu 2113 k cm2Table S1  The impedance
+spectra in all cases follow a twotime constant model that is
+connected in series with the solution resistance  RsFigure
+S3d The rsttime constant describes a pore resistance  Rpo
+which accounts for ionic or electron conductive pathways in
+copper corrosion products or SLhBN coating The constantphase element  Q
+po describes the corresponding pore
+capacitance and represents the ingress of aggressive electrolytes
+into the porous layers of the coating present on the Cu surfaceThe secondtime constant describes the resistance to charge
+transfer  R
+ct between Cu and the electrolyte and the
+capacitance due to doublelayer phenomenon  Cdl
+Biolm Tests Microbial Corrosion Resistance of the SL
+hBN Coatings We used the linear polarization resistance
+method to investigate the e ectiveness of the hBN coatings
+against MIC of the bio lm At the end of day 24 the Rpoered
+by the SLhBN coating  20463cm2 was 9 times higher
+than that of bare Cu  2373cm2Figure 4 aFigure 4 b
+shows that the MIC rates in the SLhBN cell were 67 lower
+on day 1 82 lower on day 15 and 87 lower on day 24
+The lower corrosion rates suggest the ability to minimize the
+corrosion attack on the Cu surfaces The corrosion current
+icorr and corrosion rates were determined using the Stern
+Geary equation  eq 1ACS Nano Article
+DOI 101021acsnano7b06211
+ACS Nano 2018 12 2242 22522246
+iB
+Rcorr
+p 1
+The values for the Rpwere determined from the slope of the
+current potential curve at the opencircuit potential The value
+for the constant Bwas determined using eq 2
+
+B23 ac
+ac 2
+The Tafel slopes for anodic  a and cathodic branches  c
+were obtained from the Tafel plot Finally the corrosion rateswere calculated using eq 3
+CRKi
+AEWcorr
+3
+where the constant K 1288 105milliinches was used to
+obtain corrosion rates in milliinchesyear mpy EW  and A
+are the equivalent weight 317 g density 894 gcm3 and
+area 1 cm2 of the Cu specimen respectively
+Barrier Properties of hBN Coatings We used the EIS
+test as a nonintrusive method for elucidating the reasons for theMIC resistance of the SLhBN coatings against e ects of the
+G20 bio lm The hBN coatings exert a dominant electro
+chemical polarization resistance to underlying corrosionprocesses relative to the bare Cu cell  Figure 4 c The EECanalysis con rms that the corrosion resistance  R
+corroered by
+the hBN coatings  2722 k cm2i s10 times higher than
+that by the bare Cu cell  253 kcm2Table S2  The value
+of the Qpofor the SLhBN coating was converted to interfacial
+capacitance  Cc using the parallel resistance method developed
+in an earlier study32and using the following equation3233
+CR Qnn n
+cp1  14
+where Ccis the capacitance of coating lmRpis the pore
+resistance and nis the exponent in the constant phase element
+The following ndings imply that the hBN coating o ers
+capacitive impedance behavior and provides a physical barrierto stop aggressive metabolites  egH
+2SO4and HS from
+contacting the Cu surface  Table S2 13The value of Cpofor
+SLhBN surface coating is an order of magnitude lower thanthat of bare Cu The value of C
+dlis also 34 times lower
+Table S2  These ndings indicate that the hBN coatings
+reduce the surface roughness and minimize pathways that relayions into the underlying Cu surface34The 2test con rms an
+excellent goodness of t between the measured and predicted
+values for the EIS data goodness of t1 04 average residual
+1  Figure S4  The compliance of the EIS data with the K 
+K relations is con rmed by the excellent goodness of t 103
+using 2value
+We used the Rcorrvalue obtained from the EIS analysis to
+calculate the inhibition e ciency using eq 5  The inhibition
+eciency IE13of the singlelayered hBN coating was
+determined to be as high as 91  Table S2  which is on par
+with a commercial coating such as polyaniline used in abioticenvironments  9635
+
+RR
+RIE
+100corrcoated corrbare
+corrcoated 5
+The optical evidence further corroborates the barrier properties
+of the hBN coatings against the MIC e ects of the bio lm
+Figure 5  Both the bare Cu and SLhBNCu surface
+developed identical bio lm properties related to uniformity
+and thicknesses  Figure 5 ac However the bare Cu surface
+was characterized by an apparent layer of black corrosiondeposits  Figure 5 a whereas the SLhBNCu surface remained
+clean even after 24 days of the MIC experiment  Figure 5 c
+Further the underlying bare Cu surface su ered from localized
+attack by aggressive SRB metabolites  eg organic acids and
+H
+2S whereas the SLhBNCu specimen faced only a minimal
+degree of pitting  Figure 5 bd As discussed below the Xray
+diraction XRD results con rm that the SLhBN coating
+remained intact until the end of the MIC experiment The SLhBNcoated Cu has also experienced a slight increase in thecorrosion rates during the linear polarization resistance testsFigure 4 ab which is attributed to the defects in the CVD
+coated hBN coatings Based on the ratio of R
+ctvalues for the
+bare Cu and SLhBNCu12the percentage of the uncoated area
+on the SLhBNCu surface was estimated to be 9
+These ndings demonstrate that the impermeable nature of
+the SLhBN coating prevents the sulfate reducing bacteria and
+its aggressive metabolic products acids HS from contacting
+the underlying Cu surface The pore size of the 2D hBN 60pm36is smaller than the e ective ionic radii  r of a range of
+participating redox species such as Cu2r 73 pm and Cur
+ 77 pm19aggressive metabolites such as HSr 207
+pm3738and terminal electron acceptors such as hydronium
+ion H 3Or 99 pm39As explained in the subsequent
+Figure 4 DC and AC corrosion tests establish microbial corrosion
+resistance of SLhBN coatings a Polarization resistance data b
+corrosion rates and c Nyquist plots for bare Cu and SLhBN on
+day 24ACS Nano Article
+DOI 101021acsnano7b06211
+ACS Nano 2018 12 2242 22522247
+sections of this paper the MIC resistance of the hBN coating is
+also attributed to its insulating characteristics that disable thecathodic reactions  eg proton reduction and the subsequent
+galvanic e ects
+Signatures of Microbial Corrosion At the end of the
+MIC experiments the corroded specimens were subjected to
+visual tests and a series of SEM energydispersive spectroscopy
+EDS and XRD examinations to investigate the signatures ofthe MIC attack Both the bare Cu and SLhBNCu electrodeswere characterized by thick and homogeneous bio lms of rod
+shaped cells that is a typical characteristic of the D alaskensis
+G20 strain  Figure 6 ab The visual tests revealed dominant
+darkgray crystals in corrosion deposits representing chalcociteCu
+2S which is a signature of the MIC attack on Cu
+surfaces74041The EDS analysis of the bare Cu and SLhBN
+Cu surface shows the peaks for sulfur along with other elementsincluding C Cu O and P  Figure 6 cd We attribute the O
+and C peaks to the carboxy C O and CO components of
+extracellular polymeric EPS bio lm7The Xray di ractogram
+of the bare Cu surface con rmed the presence of chalcocite
+crystals  Figure 6 e The D alaskensis G20 strain also aids in
+formation of chalcocite and EPS compounds to develop adefensive barrier against Cu toxicity7The SLhBNCu exhibits
+a poor signal for the C peak The intensity of the chalcolitepeak for the SLhBNCu surface is also 3 orders of magnitudelower compared to that of the bare Cu  Figure 6 f These
+results suggest that D alaskensis G20 uses copper as the
+electron donor  eq 4 and the sulfate or proton as the electron
+acceptor  eqs 68 It participates in a dissimilatory sulfate
+reduction to generate corrosive hydrogen sul de HS
+ species
+that is responsible for the MIC attack42eqs 79 The lactate
+is oxidized43through the lactate dehydrogenase enzyme
+pathways to produce acetate  eq 11 
+Anodic Oxidation
+ e Cu Cu 226Cathodic Reduction in the cytoplasm
+     e SO8 H 8H S O H 3 H O42
+2 7
+e 2H2 H2 8
+  SO4 H H H S 4 H O42
+22 9
+Chalcocite Production
+   2Cu 2HS Cu S H S2
+22210
+
+   
+2CH CHOHCOO SO 2H
+2CH COO 2CO HS 2H O342
+322 11
+In light of the dissimilatory reduction mechanisms the
+following results con rm that the SLhBN coating decelerates
+the metabolic activity of SRB associated production of biogenicsulde and subsequent MIC attack by D alaskensis G20 The
+highperformance liquid chromatography HPLC analysisconrms the role of hBN coatings in suppressing the metabolic
+activities The electrolyte in the SLhBNCu cell registered 2
+fold lower values for the organic acids acetic acid andpropionic acid when compared to the bare Cu cell  Figure
+S5a The SLhBNCu cell has also registered lower values for
+sulde HS
+ concentration throughout the temporal scale
+Figure S5b  For example the HSconcentration for the SL
+hBNCu cell on day 7  63gL was 14fold lower than
+that of the bare Cu cell  88gL The rate of increase in the
+pH for the SLhBNCu cell 72 to 78 was also lower than
+that of the bare Cu cell 73 to 82  Figure S5c  The lower
+rate of pH decline indicates the ability of the hBN coatings toretard one or all of the following i conversion of sulfate asalt of strong acid to sul de a salt of weak base ii
+conversion of lactic acid p K
+a 386 to acetic acid p Ka476
+and iii proton binding by the sul des44
+Galvanic Corrosion E ects of hBN Coatings Com
+pared with Those of Graphene and Bare CopperGalvanic corrosion occurs when two dissimilar metals arecoupled in a corrosive electrolyte The metal with more positivepotential in a galvanic series will act as a cathode and the metalwith negative potential acts as an anode Corrosion occurs atthe interface of such galvanic couples A coating such asgraphene graphite has more noble potential compared tocopper in a galvanic series
+45A small defect such as pinhole
+cracks or scratches in graphene coating will expose a smallanode Cu to large cathode graphene leading to a largeanodic current so as to balance the electron requirement of thecathodic site The areas with even such minor coating defectsare prone to localized corrosion which will create a ripple e ect
+propagating it to other sites in the metal surface In fact recentstudies on galvanic e ects of graphene described that grain
+boundary defects in graphene coatings will accelerate localizedcorrosion by forming galvanic couples
+4548
+To study and compare the galvanic e ects of graphene and
+hBN coatings with bare copper we carried out galvanic
+corrosion tests using the ASTM G 7181 standards These tests
+were carried out by con guring the Gamry potentiostat in a
+zeroresistance ammeter mode with transferred singlelayergraphene and SLhBN lms on a SiO
+2Si wafer as cathode bare
+Cu as anode and the de ned lactate C medium along with the
+planktonic cells of Desulfovibrio alaskensis G20 as the electro
+Figure 5 Optical images of bare Cu and SLhBNCu after 12 days
+of MIC experiment Corroded bare copper a before and b aftercleaning MICresistant SLhBNCu c before and d after
+cleaning Scale bar 200 mACS Nano Article
+DOI 101021acsnano7b06211
+ACS Nano 2018 12 2242 22522248
+lyte The procedures for transferring the SLG and SLhBN lms
+on a SiO2Si wafer are depicted in Figure S6 Figure S7 shows
+the optical images of the transferred SLG and SLhBN lms
+onto SiO 2Si wafer Figure 7 shows a threeelectrode galvanic
+corrosion cell details in the Methods section used in this
+study SiO 2Si was used as a control specimen to compare the
+galvanic current obtained from CuSLG and CuSLhBN
+couples The galvanic corrosion test was carried out within 24 h
+of the exposure to Desulfovibrio alaskensis G20 lactate C
+medium with a stable value for the opencircuit potential
+Figure 8 a shows that the galvanic current density  Ig for Cu
+SLG  329 Acm2i s392 times higher compared to that
+for CuSLhBN  84102Acm2 The higher galvanic
+current density is directly proportional to higher corrosion rate
+The lower galvanic current density in CuSLhBN whencompared to that of CuSLG clearly demonstrates that hBN
+coatings are far less vulnerable to galvanic corrosion e ects In
+fact the galvanic current and galvanic corrosion rate of the SL
+Figure 6 Microbial corrosion signatures SEM images of G20 bio lm formed on a bare Cu and b SLhBNCu after 12 days of microbial
+corrosion experiment EDS data shows sulfur peaks for c bare Cu and b SLhBN XRD data showing formation of chalcolite compounds
+on the surfaces of e bare Cu and f SLhBNCu
+Figure 7 Corrosion cell for galvanic current and potential
+measurementACS Nano Article
+DOI 101021acsnano7b06211
+ACS Nano 2018 12 2242 22522249
+hBN are comparable to those of an insulating SiO2Si surface
+Table 1  indicating its outstanding insulating characteristics
+The galvanic current density was converted to corrosion rates
+in mills per year  Table 1  using the Faraday s law as described
+by procedure ASTM G102
+KI
+corrosion rate mpyEW1g
+where K1is the Faraday constant 01288 mpy Igis galvanic
+corrosion density in Acm2 EW is the equivalent weight of
+copper 317 and is copper density 894 gcm3
+The signi cantly higher galvanic corrosion rates in the case of
+CuSLG clearly demonstrates that graphene coating on copperleads to galvanic problems The electrode potential from thegalvanic couples can be used to determine the higher 
+cathodic nature of the metal
+45The more positive the value of
+potential in the galvanic couple the higher its cathodic natureFrom Figure 8 b galvanic potential of CuSLG is higher  744
+mV than that of CuSLhBN  792 mV which we expect is
+related to the di erences in electrical conductivity of SLG and
+SLhBN Moreover the galvanic potential of SLhBN iscomparable to that of an insulating SiO
+2Si surface  Figure
+8b Since graphene acts more cathodic when coupled to
+copper than hBN CuSLG couple generates higher anodiccurrent leading to greater extent of galvanic corrosion This isthe reason why SLhBN coatings reduce the galvanic corrosioneects by 400 times when compared to SLG coatings as
+revealed in our experiments It should be noted that theelectron mobility of hBN  4923 cm
+2Vs49is154fold
+lower than that of copper  32 cm2Vs50and40 times
+lower than that in graphene  2105cm2Vs51The
+insulating behavior of hBN is due to the di erences in
+electronegativity between the boron and nitrogen atoms whichresults in localization of electrons around the nitrogen
+atoms52
+CONCLUSION
+This study demonstrates the ability of singlelayered hBN topassivate the negative e ects of microbially induced corrosion
+It is the thinnest insulating coating that combats the corrodingeects of the aggressive metabolites generated by the
+dissimilatory sulfate reduction process The MIC resistance ofthe singlelayered hBN coating emerges from the combinedeects of its impermeable nature barrier for electron acceptors
+redox species and biogenic chemicals and insulating characteristics suppresses cathodic reduction and galvanic e ects
+METHODS
+A complete description of the experimental procedures can be found
+in the Supporting Information  and only a brief account is given below
+The copper foils were coated with singlelayer hexagonal boron nitride
+CVD2X1BN 20 m thick Graphene Supermarket viachemical
+vapor deposition using the earlier procedures de ned in the
+literature5354D alaskensis was anaerobically grown in the lactate C
+medium using the procedures described previously5556Microbial
+corrosion experiments were carried out in a 400 mL single
+compartment corrosion cell consisting of three electrodes a graphiteplate as a counter electrode a AgAgCl as a reference electrode and a
+working electrode area of 1 cm
+2 We carried out abiotic tests
+planktonic cell tests and bio lm tests as described in the Supporting
+Information 
+Cyclic voltammetry linear polarization resistance potentiodynamic
+polarization and electrochemical impedance spectroscopy were used
+to analyze the resistance of the coatings against MIC conditions The
+procedures reported previously57were used to transfer the SLhBN
+coatings from an underlying copper foil to the SiO 2Si substrate The
+samples were analyzed using SEM TEM XRD and Raman
+spectroscopy To determine the organic inorganic anions and
+metal ions we collected the samples of the electrolyte from the test
+cells periodically using a sterile syringe lter with a pore diameter of
+02m Concentration of organic acids lactic acetic and propionic
+acid was determined using a Shimadzu HPLC equipped with an
+Aminex HPX87H column 300 mm 78 mm dimension an SPD
+10A UV vis detector and 0005 M H 2SO4as the mobile phase
+Concentration of aqueous sul de was determined using a spectropho
+tometer following the USEPA methylene blue method58The pH of
+the electrolyte samples was measured using an Orion Star Benchtop
+pH meter
+ASSOCIATED CONTENT
+SSupporting Information
+The Supporting Information is available free of charge on the
+ACS Publications website at DOI 101021acsnano7b06211 
+Detailed methods section gures electrochemical tests
+for bare Cu foil in sterile and D alaskensis media tted
+data for Nyquist plot for bare Cu SLhBN organic acid
+concentration sul de and pH measurements for bare
+Cucell and SLhBNcell  temporal pro les of Rct pore
+and double layer capacitance tables electrical equiv
+alent circuit parameters for Nyquist plot conducted inplanktonic medium for bare Cu and SLhBNCu EEC
+Figure 8 Temporal variation of a galvanic current IgAcm2
+and b galvanic potential mV for galvanic couples CuSiO2Si
+CuSLG and CuSLhBN in Desulfovibrio alaskensis G20 lactate C
+medium Cu is used as anode and SiO2Si SLG and SLhBN as
+cathode The anode to cathode area ratios for all the galvanic
+couples are maintained at 17
+Table 1 Galvanic Corrosion Rates Based on Galvanic
+Couple Current Density
+galvanic
+couplegalvanic current density
+Acm2galvanic corrosion rate
+mpy
+CuSiO 2Si 622 10328103
+CuSLG 329 148
+CuSLhBN 84 102379 102ACS Nano Article
+DOI 101021acsnano7b06211
+ACS Nano 2018 12 2242 22522250
+parameters for Nyquist plot conducted in sessile medium
+for bare Cu and SLhBNCu and references for the
+methods section  PDF
+AUTHOR INFORMATION
+Corresponding Author
+Email venkatagadhamshettysdsmtedu 
+ORCID
+Nikhil A Koratkar 0000000240803786
+Venkataramana Gadhamshetty 0000000284183515
+Notes
+The authors declare no competing nancial interest
+ACKNOWLEDGMENTS
+Funding support from National Science Foundation CAREER
+Award  1454102 National Aeronautics and Space Admin
+istration NNX16AQ98A and the South Dakota Board ofRegents under the auspices o f the Surface Engineering
+Research Center SERC is acknowledged
+REFERENCES
+1 Krishnamurthy A Gadhamshetty V Mukherjee R Natarajan
+B Eksik O Shojaee S A Lucca D A Ren W Cheng HMKoratkar N Superiority of Graphene over Polymer Coatings for
+Prevention of Microbially Induced Corrosion Sci Rep 2015 5 13858
+2 Heitz E Flemming HC Sand W Microbially In uenced
+Corrosion of Materials Scienti c and Engineering Aspects  Springer
+Verlag Heidelberg 1996 p 475
+3 Zhang D Qian H Xiao K Zhou F Liu Z Li X Corrosion
+Inhibition of 304 Stainless Steel by Paecilomyces Variotii andAspergillus
+Niger in Aqueous Environment Corros Eng Sci Technol 2016 51
+285290
+4 Enzien M Wu M Frank J Pope D Nonbiocidal Control of
+Microbiologically In uenced Corrosion Using Organic FilmForming
+Inhibitors Proceedings of the National Association of Corrosion Engineers 
+4th ed NACE International 1996
+5 Rajasekar A Biodegradation of Petroleum Hydrocarbon and Its
+Inuence on Corrosion with Special Reference to Petroleum Industry
+InBiodegradation and Bioconversion of Hydrocarbons  Heimann K
+Karthikeyan O P Muthu S S Eds Springer Nature Singapore
+2017 p 311
+6 Zuo R O rnek D Syrett B Green R Hsu CH Mansfeld
+F Wood T Inhibiting Mild Steel Corrosion from SulfateReducing
+Bacteria Using AntimicrobialProducing Biofilms in ThreeMileIslandProcess Water Appl Microbiol Biotechnol 2004 64 275283
+7 Chen S Wang P Zhang D Corrosion Behavior of Copper
+Under Biofilm of SulfateReducing Bacteria Corros Sci 2014 87
+407415
+8 Chilkoor G Upadhyayula V K Gadhamshetty V Koratkar
+N Tysklind M Sustainability of Renewable Fuel Infrastructure A
+Screening LCA Case Study of Anticorrosive Graphene Oxide Epoxy
+Liners in Steel Tanks for the Storage of Biodiesel and its Blends
+Environ Sci Processes Impacts 2017 19 141153
+9 Donoghue M O Graham R G Datta V W Garrett R W
+Garrett J W Field Performance versus Laboratory Testing A Study of
+Epoxy Tank and Vessel Linings Used in the Canadian Oil Patch In
+Corrosion 2003  NACE International San Diego CA 2003
+10 Heyer A Microbiologically In uenced Corrosion in Ship Ballast
+Tanks PhD Dissertation Delft University of Technology DelftNetherlands 2013
+11 Tambe S Jagtap S Chaurasiya A Joshi K K Evaluation of
+Microbial Corrosion of Epoxy Coating by Using Sulphate ReducingBacteria Prog Org Coat 2016 944 9
+55
+12 Prasai D Tuberquia J C Harl R R Jennings G K Bolotin
+K I Graphene CorrosionInhibiting Coating ACS Nano 2012 6
+1102110813 Huh JH Kim S H Chu J H Kim S Y Kim J H Kwon
+SY Enhancement of Seawater Corrosion Resistance in Copper Using
+AcetoneDerived Graphene Coating Nanoscale 2014 6 4379 4386
+14 Raman R S Banerjee P C Lobo D E Gullapalli H
+Sumandasa M Kumar A Choudhary L Tkacz R Ajayan P M
+Majumder M Protecting Copper from Electrochemical Degradation
+by Graphene Coating Carbon 2012 50 4040 4045
+15 Krishnamurthy A Gadhamshetty V Mukherjee R Chen Z
+Ren W Cheng HM Koratkar N Passivation of Microbial
+Corrosion Using a Graphene Coating Carbon 2013 564 549
+16 Upadhyayula V K Meyer D E Gadhamshetty V Koratkar
+N ScreeningLevel Life Cycle Assessment of GraphenePoly ether
+imide Coatings Protecting Unalloyed Steel from Severe Atmospheric
+Corrosion ACS Sustainable Chem Eng 2017 5 2656 2667
+17 Dennis R V Viyannalage L T Gaikwad A V Rout T K
+Banerjee S Graphene Nanocomposite Coatings for Protecting Low
+Alloy Steels from Corrosion Am Ceram Soc Bull 2013 921 824
+18 Mahvash F Eissa S Bordjiba T Tavares A Szkopek T
+Siaj M Corrosion Resistance of Monolayer Hexagonal Boron Nitride
+on Copper Sci Rep 2017 7 42139
+19 Parra C MonteroSilva F Henrquez R Flores M Garn
+C Ramrez C Moreno M Correa J Seeger M Ha berle P
+Suppressing Bacterial Interaction with Copper Surfaces through
+Graphene and HexagonalBoron Nitride Coatings ACS Appl Mater
+Interfaces 2015 7 6430 6437
+20 Shen L Zhao Y Wang Y Song R Yao Q Chen S Chai
+Y A LongTerm Corrosion Barrier with an Insulating Boron Nitride
+Monolayer J Mater Chem A 2016 4 5044 5050
+21 Kim G Kim M Hyun C Hong S Ma K Y Shin H S
+Lim H Hexagonal Boron NitrideAu Substrate for Manipulating
+Surface Plasmon and Enhancing Capability of SurfaceEnhanced
+Raman Spectroscopy ACS Nano 2016 10 11156 11162
+22 Liu Z Gong Y Zhou W Ma L Yu J Idrobo J C Jung J
+MacDonald A H Vajtai R Lou J et al Ultrathin High
+Temperature OxidationResistant Coatings of Hexagonal Boron
+Nitride Nat Commun 2013 4 2541
+23 Husain E Narayanan T N TahaTijerina J J Vinod S
+Vajtai R Ajayan P M Marine Corrosion Protective Coatings of
+Hexagonal Boron Nitride Thin Films on Stainless Steel ACS Appl
+Mater Interfaces 2013 5 4129 4135
+24 Zhang J Yang Y Lou J Investigation of Hexagonal Boron
+Nitride as an Atomically Thin Corrosion Passivation Coating in
+Aqueous Solution Nanotechnology 2016 27 364004
+25 Lin Y Williams T V Connell J W Soluble Exfoliated
+Hexagonal Boron Nitride Nanosheets J Phys Chem Lett 2010 1
+277283
+26 Gorbachev R V Riaz I Nair R R Jalil R Britnell L Belle
+B D Hill E W Novoselov K S Watanabe K Taniguchi T et al
+Hunting for Monolayer Boron Nitride Optical and Raman Signatures
+Small 2011 7 465468
+27 Wlasny I Dabrowski P Rogala M Kowalczyk P Pasternak
+I Strupinski W Baranowski J Klusek Z Role of Graphene Defects
+in Corrosion of GrapheneCoated Cu 111 Surface Appl Phys Lett
+2013 102 111601
+28 Wlasny I Dabrowski P Rogala M Pasternak I Strupinski
+W Baranowski J Klusek Z Impact of Electrolyte Intercalation on
+the Corrosion of GrapheneCoated Copper Corros Sci 2015 926 9
+75
+29 Chow P K Singh E Viana B C Gao J Luo J Li J Lin
+Z Elas A L Shi Y Wang Z et al Wetting of Mono and Few
+layered WS2 and MoS2 Films Supported on SiSiO2 Substrates ACS
+Nano 2015 9 3023 3031
+30 Hu B Ago H Ito Y Kawahara K Tsuji M Magome E
+Sumitani K Mizuta N Ikeda Ki Mizuno S Epitaxial Growth of
+LargeArea SingleLayer Graphene Over Cu 111Sapphire by
+Atmospheric Pressure CVD Carbon 2012 505 765
+31 Song X Gao J Gao T Nie Y Sun J Chen Y Jin C
+Ding F Zhang Y Liu Z Waferscale CVD Growth of Monolayer
+Hexagonal Boron Nitride with Large Domain Size by Cu FoilACS Nano Article
+DOI 101021acsnano7b06211
+ACS Nano 2018 12 2242 22522251
+Enclosure Approach httpsarxivorgabs150101740 accessed
+August 10 2017
+32 Brug G Van Den Eeden A SluytersRehbach M Sluyters J
+The Analysis of Electrode Impedances Complicated by the Presence of
+a Constant Phase Element J Electroanal Chem Interfacial Electrochem
+1984 176 275295
+33 Aneja K S Bo hm H M Khanna A Bo hm S Functionalised
+Graphene as a Barrier Against Corrosion FlatChem 2017 11 119
+34 Schmidt E Shi S Ruden P P Frisbie C D Characterization
+of the Electric Double Layer Formation Dynamics of a MetalIonicLiquidMetal Structure ACS Appl Mater Interfaces 2016 8 14879 
+14884
+35 ShabaniNooshabadi M Mollahoseiny M Jafari Y Electro
+polymerized Coatings of Polyaniline on Copper by Using the
+Galvanostatic Method and their Corrosion Protection Performance
+in HCl Medium Surf Interface Anal 2014 46 472479
+36 Yan K Lee HW Gao T Zheng G Yao H Wang H Lu
+Z Zhou Y Liang Z Liu Z et al Ultrathin TwoDimensional
+Atomic Crystals as Stable Interfacial Layer for Improvement ofLithium Metal Anode Nano Lett 2014 14 6016 6022
+37 Dasent W E Inorganic Energetics An Introduction  Cambridge
+University Press Cambridge 1982 p 78
+38 Jenkins H Thakur K Reappraisal of Thermochemical Radii
+for Complex Ions J Chem Educ 1979 56 576
+39 Barrett J Inorganic Chemistry in Aqueous Solution  The Royal
+Society of Chemistry Cambridge 2003 p 35
+40 McNeil M Jones J Little B Production of Sulfide Minerals
+by SulfateReducing Bacteria during Microbiologically Influenced
+Corrosion of Copper Corrosion 1991 47 674677
+41 Geesey G G Lewandowski Z Flemming HC Biofouling
+and Biocorrosion in Industrial Water Systems  CRC Press Boca Raton
+FL 1994 p 214
+42 Keller K L RappGiles B J Semkiw E S Porat I Brown S
+D Wall J D New Model for Electron Flow for Sulfate Reduction inDesulfovibrio Alaskensis G20 Appl Environ Microbiol 2014 80 855
+868
+43 Lee A K Buehler M G Newman D K Influence of a Dual
+Species Biofilm on the Corrosion of Mild Steel Corros Sci 2006
+48
+165178
+44 Wikie  A J Datsenko I Vera M Sand W Impact of
+Desulfovibrio Alaskensis Biofilms on Corrosion Behaviour of Carbon
+Steel in Marine Environment Bioelectrochemistry 2014 975 260
+45 Cui C Lim A T O Huang J A Cautionary Note on
+Graphene AntiCorrosion Coatings Nat Nanotechnol 2017 12 834
+46 Schriver M Regan W Gannett W J Zaniewski A M
+Crommie M F Zettl A Graphene as a LongTerm Metal Oxidation
+Barrier Worse than Nothing ACS Nano 2013 7 5763 5768
+47 Zhou F Li Z Shenoy G J Li L Liu H Enhanced Room
+Temperature Corrosion of Copper in the Presence of Graphene ACS
+Nano 2013 7 6939 6947
+48 Datta D Li J Koratkar N Shenoy V B Enhanced Lithiation
+in Defective Graphene Carbon 2014 80 305310
+49 Park H Kim T K Cho S W Jang H S Lee S I Choi S
+Y LargeScale Synthesis of Uniform Hexagonal Boron Nitride Films
+by PlasmaEnhanced Atomic Layer Deposition Sci Rep 2017 7
+40091
+50 Fulay P Lee JK Electronic Magnetic and Optical Materials 
+CRC Press Boca Raton FL 2016 p 56
+51 Tan H Wang D Guo Y Thermal Growth of Graphene A
+Review Coatings 2018 8 40
+52 Hod O Graphite and hexagonal BoronNitride have the Same
+Interlayer Distance Why J Chem Theory Comput 2012 8 1360 
+1369
+53 Kim K K Hsu A Jia X Kim S M Shi Y Hofmann M
+Nezich D RodriguezNieva J F Dresselhaus M Palacios T et alSynthesis of Monolayer Hexagonal Boron Nitride on Cu Foil UsingChemical Vapor Deposition Nano Lett 2012 12 161166
+54 Li X Cai W An J Kim S Nah J Yang D Piner R
+Velamakanni A Jung I Tutuc E et al LargeArea Synthesis ofHighQuality and Uniform Graphene Films on Copper Foils Science
+2009 324 1312
+1314
+55 Sani R K Geesey G Peyton B M Assessment of Lead
+Toxicity to Desulfovibrio desulfuricans G20 Influence of Components
+of Lactate C Medium Adv Environ Res 2001 5 269276
+56 Burlage R S Atlas R Stahl D Geesey G Sayler G
+Techniques in Microbial Ecology  Oxford University Press New York
+1998 pp 42 43
+57 Kim K K Hsu A Jia X Kim S M Shi Y Dresselhaus M
+Palacios T Kong J Synthesis and Characterization of HexagonalBoron Nitride Film as a Dielectric Layer for Graphene Devices ACS
+Nano 2012 6 8583 8590
+58 Nielsen A H Vollertsen J HvitvedJacobsen T Determi
+nation of Kinetics and Stoichiometry of Chemical Sulfide Oxidation in
+Wastewater of Sewer Networks Environ Sci Technol 2003 37 3853
+3858ACS Nano Article
+DOI 101021acsnano7b06211
+ACS Nano 2018 12 2242 22522252
