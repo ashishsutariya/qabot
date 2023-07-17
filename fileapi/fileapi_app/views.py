@@ -91,6 +91,7 @@ def process_file(request):
 def chat(request):
     if request.method == 'POST':
         
+        
         input_string = request.data.get('input_string', '')
 
         print("input_string  ",input_string)
